@@ -11,4 +11,10 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.xml" />
+  </ItemGroup>
 </Project>

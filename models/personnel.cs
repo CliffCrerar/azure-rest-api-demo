@@ -1,22 +1,31 @@
-using System;
+/*using System;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using RESTFUL.api.models;
+using RESTFUL.Api.Models;
 
-namespace RESTFUL.api.data
+namespace RESTFUL.Api.Data
 {
 	public class Personnel
 	{
-		public class SeedData
+		public static class SeedDataBase
 		{
-			public static void initialize(SurtechStaff context)
+			public static void Initialize(EmployeeContext context)
 			{
-				if (!context.SurtechStaff.Any())
+				if (!context.Employees.Any())
 				{
-
+					context.Employees.AddRange(
+						new Employee
+						{
+							firstName = "Cliff",
+							lastName = "Crerar",
+							department = "Product",
+							age = 33
+						}
+					);
 				}
+				context.SaveChanges();
 			}
 		}
 	}
-}
+}*/

@@ -5744,7 +5744,6 @@
       "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
-      "hasTools": true,
       "files": [
         ".nupkg.metadata",
         "ThirdPartyNotices.rtf",
@@ -12078,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/src/RESTFUL.api/RESTFUL.api.csproj",
+      "projectUniqueName": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/server/src/RESTFUL.api/RESTFUL.api.csproj",
       "projectName": "RESTFUL.api",
-      "projectPath": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/src/RESTFUL.api/RESTFUL.api.csproj",
+      "projectPath": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/server/src/RESTFUL.api/RESTFUL.api.csproj",
       "packagesPath": "/Users/cliffordcrerar/.nuget/packages/",
-      "outputPath": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/src/RESTFUL.api/obj/",
+      "outputPath": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/server/src/RESTFUL.api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
