@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Project Main",
+			"path": ".",
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"angular",
+			"api",
+			"aspnetcore",
+			"browser",
+			"build",
+			"contoso",
+			"devkit",
+			"pets"
+		],
+		"azureFunctions.enablePowerShell": true,
+		"powershell.startAutomatically": true,
+		"docker.attachShellCommand.windowsContainer": "powershell",
+		"git.alwaysShowStagedChangesResourceGroup": true,
+		"editor.fontFamily": "FiraCode-Retina, Menlo, Monaco, 'Courier New', monospace",
+		"editor.fontSize": 14,
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.renderWhitespace": "all",
+		"editor.fontWeight": "normal"
+	}
+}

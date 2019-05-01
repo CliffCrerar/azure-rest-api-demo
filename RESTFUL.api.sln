@@ -19,5 +19,36 @@ Global
 		$0.DotNetNamingPolicy = $1
 		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
 		$0.VersionControlPolicy = $2
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 80
+		$3.TabsToSpaces = True
+		$3.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $4
+		$4.scope = text/x-csharp
+		$0.TextStylePolicy = $5
+		$5.FileWidth = 80
+		$5.TabsToSpaces = True
+		$5.scope = text/plain
+		$0.TextStylePolicy = $6
+		$6.FileWidth = 100
+		$6.TabsToSpaces = True
+		$6.scope = text/x-web
+		$0.StandardHeader = $7
+		$0.TextStylePolicy = $8
+		$8.scope = text/x-vs
+		$8.FileWidth = 80
+		$8.TabsToSpaces = True
+		$0.TextStylePolicy = $9
+		$9.TabWidth = 2
+		$9.TabsToSpaces = True
+		$9.IndentWidth = 2
+		$9.NoTabsAfterNonTabs = True
+		$9.scope = text/x-json
+		$0.JSONFormattingPolicy = $10
+		$10.AutoStructureCompletion = True
+		$10.AutomaticFormatting = True
+		$10.BracePositions = SemiExpanded
+		$10.FormatOnPaste = True
+		$10.scope = text/x-json
 	EndGlobalSection
 EndGlobal

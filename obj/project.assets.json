@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/server/src/RESTFUL.api/RESTFUL.api.csproj",
+      "projectUniqueName": "/Users/cliffordcrerar/letsplay/azure-rest-api-demo/RESTFUL.api.csproj",
       "projectName": "RESTFUL.api",
-      "projectPath": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/server/src/RESTFUL.api/RESTFUL.api.csproj",
+      "projectPath": "/Users/cliffordcrerar/letsplay/azure-rest-api-demo/RESTFUL.api.csproj",
       "packagesPath": "/Users/cliffordcrerar/.nuget/packages/",
-      "outputPath": "/Users/cliffordcrerar/SurTech/Dev/VS_RESTful_API/server/src/RESTFUL.api/obj/",
+      "outputPath": "/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

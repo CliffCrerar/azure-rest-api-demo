@@ -13,8 +13,10 @@
 
   <ItemGroup>
     <None Remove="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.json" />
+    <None Remove="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.xml" />
+    <None Remove=".publishsettings" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.xml" />
+    <Content Remove="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.xml" />
   </ItemGroup>
 </Project>

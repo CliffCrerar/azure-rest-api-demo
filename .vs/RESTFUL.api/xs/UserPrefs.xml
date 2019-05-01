@@ -1,23 +1,16 @@
 ﻿<Properties StartupConfiguration="{A25485E7-7201-4D45-A700-973EE493EEF7}|Default">
   <MonoDevelop.Ide.ItemProperties.RESTFUL.api PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValuesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="9ccfc4c1-0ee0-4-231-b9ee.publishsettings.xml" Line="7" Column="389" />
-      <File FileName=".publishsettings" Line="1" Column="1" />
-      <File FileName="appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="appsettings.json" Line="1" Column="1" />
-      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="vs-restful-api.code-workspace" Line="4" Column="20" />
       <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Controllers/ValuesController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RESTFUL.api" expanded="True">
             <Node name="RESTFUL.api" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ValuesController.cs" selected="True" />
-              </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
