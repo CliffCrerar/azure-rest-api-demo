@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E18F6EDB-072A-4990-8C38-1CA39CC69956}|Default">
+  <MonoDevelop.Ide.ItemProperties.azure-rest-api-demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="azure-rest-api-demo" expanded="True">
+            <Node name="azure-rest-api-demo" expanded="True">
+              <Node name="wwwroot" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
