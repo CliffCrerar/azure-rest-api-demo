@@ -1,13 +1,11 @@
-﻿<Properties StartupConfiguration="{E18F6EDB-072A-4990-8C38-1CA39CC69956}|Default">
-  <MonoDevelop.Ide.ItemProperties.azure-rest-api-demo PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{8F60A102-98B6-44ED-813B-28F203C4A43F}|Default">
+  <MonoDevelop.Ide.ItemProperties.azure-rest-api-demo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="azure-rest-api-demo" expanded="True">
-            <Node name="azure-rest-api-demo" expanded="True">
-              <Node name="wwwroot" selected="True" />
-            </Node>
+          <Node name="azure-rest-api-demo" expanded="True" selected="True">
+            <Node name="azure-rest-api-demo" expanded="True" />
           </Node>
         </State>
       </Pad>
