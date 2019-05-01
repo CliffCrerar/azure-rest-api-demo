@@ -11,8 +11,6 @@
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.RazorAssemblyInfo.cs
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.AssemblyInfoInputs.cache
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.AssemblyInfo.cs
-/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.TagHelpers.input.cache
-/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.TagHelpers.output.cache
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.RazorCoreGenerate.cache
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
@@ -24,7 +22,16 @@
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.RazorTargetAssemblyInfo.cache
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.RazorTargetAssemblyInfo.cs
-/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.Views.pdb
-/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.dll
-/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.pdb
 /Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/azure-rest-api-demo.csproj.CopyComplete
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.deps.json
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.runtimeconfig.json
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.runtimeconfig.dev.json
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.dll
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.pdb
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.Views.dll
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/build/bin/Debug/netcoreapp2.2/netcoreapp2.2/Azure Web App Demo.Views.pdb
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Azure Web App Demo.TagHelpers.input.cache
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Azure Web App Demo.TagHelpers.output.cache
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Azure Web App Demo.Views.pdb
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Azure Web App Demo.dll
+/Users/cliffordcrerar/letsplay/azure-rest-api-demo/obj/Debug/netcoreapp2.2/Azure Web App Demo.pdb

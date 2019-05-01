@@ -1,21 +1,15 @@
 ﻿<Properties StartupConfiguration="{8F60A102-98B6-44ED-813B-28F203C4A43F}|Default">
   <MonoDevelop.Ide.ItemProperties.azure-rest-api-demo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+    <Files>
+      <File FileName=".gitignore" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="azure-rest-api-demo" expanded="True">
             <Node name="azure-rest-api-demo" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="js" expanded="True" />
-                <Node name="lib" expanded="True" />
-              </Node>
-              <Node name="appsettings.Development.json" selected="True" />
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>
